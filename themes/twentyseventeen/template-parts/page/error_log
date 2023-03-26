@@ -1,0 +1,20 @@
+[31-Mar-2022 11:02:55 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php on line 12
+[31-Mar-2022 12:18:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php on line 15
+[24-Aug-2022 23:57:14 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-front-page.php on line 12
+[25-Aug-2022 05:29:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function the_ID() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-page.php on line 15
+[25-Aug-2022 06:03:11 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/page/content-front-page-panels.php on line 15

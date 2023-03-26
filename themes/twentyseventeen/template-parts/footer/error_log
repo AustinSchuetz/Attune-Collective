@@ -1,0 +1,12 @@
+[31-Mar-2022 15:40:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18
+[25-Aug-2022 10:46:08 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/footer/footer-widgets.php on line 14
+[25-Aug-2022 18:02:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_url() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/footer/site-info.php on line 18

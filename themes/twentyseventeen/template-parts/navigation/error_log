@@ -1,0 +1,4 @@
+[25-Aug-2022 16:36:43 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr_e() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/template-parts/navigation/navigation-top.php on line 12

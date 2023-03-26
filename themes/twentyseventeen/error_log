@@ -1,0 +1,69 @@
+[30-Mar-2022 22:49:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/index.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/index.php on line 18
+[31-Mar-2022 05:41:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/header.php on line 16
+[31-Mar-2022 08:45:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[31-Mar-2022 09:32:23 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/search.php on line 13
+[31-Mar-2022 10:27:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/single.php on line 13
+[31-Mar-2022 12:44:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/searchform.php on line 13
+[31-Mar-2022 13:36:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/page.php on line 18
+[25-Aug-2022 00:09:51 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/search.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/search.php on line 13
+[25-Aug-2022 00:45:07 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function post_password_required() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/comments.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/comments.php on line 21
+[25-Aug-2022 02:06:49 America/New_York] PHP Notice:  Undefined index: wp_version in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/functions.php on line 15
+[25-Aug-2022 02:06:49 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/functions.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/functions.php on line 16
+[25-Aug-2022 04:29:24 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_part() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/footer.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/footer.php on line 22
+[25-Aug-2022 06:03:18 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/header.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/header.php on line 16
+[25-Aug-2022 06:25:10 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function esc_attr() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/searchform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/searchform.php on line 13
+[25-Aug-2022 07:52:40 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/front-page.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/front-page.php on line 15
+[25-Aug-2022 09:03:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function is_active_sidebar() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/sidebar.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/sidebar.php on line 13
+[25-Aug-2022 12:04:04 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/single.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/single.php on line 13
+[25-Aug-2022 15:23:33 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/page.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentyseventeen/page.php on line 18

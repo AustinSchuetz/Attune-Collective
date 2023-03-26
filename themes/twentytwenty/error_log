@@ -1,0 +1,4 @@
+[21-Aug-2022 22:22:00 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/austzncx/public_html/attune-collective.com/wp-content/themes/twentytwenty/index.php on line 17
